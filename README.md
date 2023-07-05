@@ -1,2 +1,3 @@
-# calculadora-python
-Projeto de calculadora python - Data Science Academy 
+# Calculadora em python
+
+**Projeto de calculadora em python - Data Science Academy**
